@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "^5.1.1",
-    "autoprefixer": "^9.8.0",
+    "autoprefixer": "^9.8.4",
     "babel-preset-env": "^1.6.1",
     "clipboard": "^2.0.0",
     "core-js": "^3.6.5",
