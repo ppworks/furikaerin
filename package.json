@@ -8,7 +8,7 @@
     "clipboard": "^2.0.0",
     "core-js": "^3.6.5",
     "qrious": "^4.0.2",
-    "regenerator-runtime": "^0.13.5"
+    "regenerator-runtime": "^0.13.6"
   },
   "devDependencies": {
     "webpack-cli": "^3.3.12",
